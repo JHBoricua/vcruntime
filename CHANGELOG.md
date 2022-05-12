@@ -4,7 +4,31 @@ This file is used to list changes made in each version of vcruntime.
 
 ## Unreleased
 
+- Update vc12 and vc14 checksums for new releases of 2013, 2015-2019 and 2015-2022 runtimes [@jhboricua](https://github.com/jhboricua)
+
+## 2.2.9 - *2021-11-22*
+
+- Remove CircleCI and Dangerfile now the release system is taking care of this for us
+
+## 2.2.8 - *2021-11-22*
+
+- Update vc14 checksum for new releases of 2015-2019 and 2015-2022 runtimes [@jhboricua](https://github.com/jhboricua)
+
+## 2.2.7 - *2021-09-23*
+
+- Update vc14 checksum for new release 14.29.30133.0 [@jhboricua](https://github.com/jhboricua)
+
+## 2.2.6 - *2021-08-31*
+
+- Standardise files with files in sous-chefs/repo-management
+
+## 2.2.5 - *2021-06-23*
+
+- Update vc14 package_name [@derekgroh](https://github.com/derekgroh)
+
 ## 2.2.4 - *2021-06-01*
+
+- Standardise files with files in sous-chefs/repo-management
 
 ## 2.2.3 - *2021-05-25*
 
