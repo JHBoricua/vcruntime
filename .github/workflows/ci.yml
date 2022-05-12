@@ -6,6 +6,7 @@ name: ci
   push:
     branches:
       - main
+      - vc14_package
 
 jobs:
   yamllint:
